@@ -1,5 +1,3 @@
-# Readme
-
 1. Install FFmpeg
 [Install FFmpeg step-by-step](https://hackmd.io/@Alone0506/rJp3USqm0)
 
